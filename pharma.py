@@ -1,6 +1,6 @@
 import mysql.connector
 import random
-'''
+
 # ---------------- DATABASE CONNECTION ----------------
 connection = mysql.connector.connect(
     host="localhost",
@@ -251,4 +251,3 @@ def main_menu():
 
 # ---------------- RUN PROGRAM ----------------
 main_menu()
-'''
